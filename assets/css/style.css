@@ -79,7 +79,7 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 .btn-outline-success {
-  border-color: #20b15a;
+  border-color: #f0950d;
 }
 
 .btn-outline-success:hover {
@@ -87,8 +87,8 @@ header .navbar-expand-lg .navbar-nav {
 }
 
 .btn-success {
-  border-color: #20b15a;
-  background-color: #20b15a;
+  border-color: #b17220;
+  background-color: #b17e20;
 }
 
 header.fixed-top {
