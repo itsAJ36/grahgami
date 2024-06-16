@@ -1,6 +1,8 @@
 body,
 html {
   font-family: "Poppins", sans-serif;
+  background-color: #000;
+  color:#ffff;
 }
 
 img {
@@ -155,7 +157,7 @@ header.fixed-top {
   padding: 50px 50px 50px 30px;
   border-radius: 30px;
   transition: all 0.35s linear;
-  background-color: white;
+  background-color: #9A2A1C;
 }
 
 .what-we-do .boxes-wrapper:hover {
@@ -520,8 +522,8 @@ div#subscribe-response-message {
 /* Footer Start */
 
 .site-footer {
-  padding: 75px 0 30px;
-  background-color: #00ca72;
+  padding: 25px 0 30px;
+  background-color: #94281C;
 }
 
 .site-footer h2 {
@@ -545,7 +547,7 @@ div#subscribe-response-message {
   height: 41px;
   width: 41px;
   border-radius: 41px;
-  background-color: #20b15a;
+  background-color:#7B2118;
   color: white;
   font-size: 17px;
   display: inline-flex;
@@ -565,7 +567,7 @@ div#subscribe-response-message {
 }
 
 .site-footer .footer-menu {
-  row-gap: 25px;
+  row-gap: 15px;
 }
 
 .site-footer .footer-menu li a {
@@ -578,7 +580,7 @@ div#subscribe-response-message {
 }
 
 .site-footer .copyright {
-  margin: 70px 0 0;
+  margin: 20px 0 0;
 }
 
 /* Footer End */
