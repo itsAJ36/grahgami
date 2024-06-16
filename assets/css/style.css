@@ -598,7 +598,13 @@ div#subscribe-response-message {
 }
 
 /* Footer End */
+.contact-icon {
+  cursor: default;
+}
 
+.email-icon {
+  height: 2.5rem;
+}
 /* Media Queries Start*/
 
 @media screen and (max-width: 1199px) {
