@@ -710,6 +710,15 @@ div#subscribe-response-message {
   }
 }
 
+.contact-icon {
+  cursor: default;
+}
+
+.email-icon {
+  height: 2.5rem;
+}
+
+
 @media screen and (max-width: 992px) {
   header .navbar-expand-lg .navbar-nav {
     row-gap: 20px;
