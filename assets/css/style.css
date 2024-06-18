@@ -8,6 +8,7 @@ html {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  scroll-behavior: smooth;
 }
 
 img {
@@ -16,6 +17,8 @@ img {
 }
 
 /* Header CSS Start */
+
+
 
 .navbar-toggler:focus {
   box-shadow: 0 0 0 0.25rem #2227246b;
